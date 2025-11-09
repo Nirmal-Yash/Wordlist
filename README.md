@@ -4,7 +4,7 @@ This repository contains a custom wordlist of commonly used **Indian passwords**
 
 # *File Included*
 
-wordlists/
+wordlists/ \n
 └── indian-common.txt
 
 # Usage Examples
